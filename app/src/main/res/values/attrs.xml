@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="Back_Size" format="float"/>
+        <attr name="Back_Color" format="color"/>
+        <attr name="Back_Back" format="color"/>
+
+        <attr name="Go_Size" format="float"/>
+        <attr name="Go_Color" format="color"/>
+        <attr name="Go_Back" format="color"/>
+
+        <attr name="Co_Size" format="float"/>
+        <attr name="Co_Color" format="color"/>
+        <attr name="Co_Back" format="color"/>
+    </declare-styleable>
+</resources>
